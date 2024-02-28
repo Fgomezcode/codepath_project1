@@ -1,0 +1,30 @@
+#root {
+text-align:center;
+background-color: red;
+}
+
+
+
+.Event-Grid{
+  display: flex;
+  flex-direction: row;
+  background-color: green;
+  justify-content: center;
+}
+
+
+
+.EventCard{
+  padding:10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: red;
+  margin:5%;
+  border-radius: 15px;
+
+}
+
+.card-image{
+  width:200px;
+}
