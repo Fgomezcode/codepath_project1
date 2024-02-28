@@ -25,8 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/Oa9vkAq)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe class="imgur-embed" width="100%" height="1164" frameborder="0" src="https://i.imgur.com/98BOjLA.gifv#embed"></iframe>
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
